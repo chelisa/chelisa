@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chelisa
+- 👋 Hi, I’m @Jing-Yi Chen
 - 👀 I’m interested in herpetology and amphibians
 - 🌱 I’m currently learning single cell sequencing analysis
 - 💞️ I’m looking to collaborate on bioinformatics
